@@ -17,3 +17,5 @@ github_username:  minimal_github
 # Build settings
 markdown: kramdown
 permalink: /:title/
+
+theme: jekyll-theme-cayman
